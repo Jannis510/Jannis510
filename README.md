@@ -1,6 +1,6 @@
 # Hi, ich bin Jannis 👋
 
-🎓 Masterstudent Digitale Medizin
+🎓 Masterstudent Digitale Medizin - Medical Data Science
 
 ## 🛠️ Interessen
 - 🧱 Infrastruktur & Self-Hosting (Docker, Linux, Networking)
