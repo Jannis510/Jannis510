@@ -1,16 +1,27 @@
 # Hi, I'm Jannis
 
-M.Sc. candidate in Digital Medicine (Medical Data Science).  
-Focused on infrastructure engineering, security architecture, and automation.
+M.Sc. candidate in Digital Medicine (Medical Data Science). I spend a lot of my time 
+building things — mostly infrastructure and automation. Always looking to learn something new.
 
-## Areas of Interest
+I'm into IT security, infrastructure, and AI development.
 
-### Infrastructure & Systems Engineering
-Designing resilient, containerized environments with emphasis on network architecture, service isolation, and operational reliability.  
-Example project: [homelab-infrastructure](https://github.com/Jannis510/homelab-infrastructure)
+---
 
-### Security & Trust Architecture
-Exploring DNS security, reverse proxy design, TLS, and private PKI infrastructures to build secure, self-hosted platforms for controlled environments.
+## Projects
 
-### Medical Data & Automation
-Applying Python for data processing, automation, and reproducible workflows in digital health systems.
+### [Homelab Infrastructure](https://github.com/Jannis510/homelab-infrastructure)
+Self-hosted, containerized setup with network isolation, a private PKI, and proper 
+security architecture. Started as curiosity, turned into an ongoing project.
+
+### Security Monitoring for FHIR Servers *(B.Sc. Thesis)*
+Built a security monitoring system for a FHIR server using the Elastic Stack. 
+No public repo due to confidentiality.
+
+---
+
+## Tech I've Worked With
+`Python` `PostgreSQL` `Docker` `Linux` `Nginx` `Traefik` `Apache Superset` 
+`Elastic Stack` `DNS/TLS/PKI`
+
+## Tech I'm Interested In
+`Kubernetes` `AI/ML Tooling` 
