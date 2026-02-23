@@ -20,8 +20,8 @@ No public repo due to confidentiality.
 ---
 
 ## Tech I've Worked With
-`Python` `PostgreSQL` `Docker` `Linux` `Nginx` `Traefik` `Apache Superset` 
-`Elastic Stack` `DNS/TLS/PKI`
+`Python` `PostgreSQL` `Docker` `Linux` `Nginx` `Traefik` `Apache Superset`
+`Elastic Stack` `DNS/TLS/PKI` `spaCy` `CNN` `NLP` `FastAPI` `React`
 
 ## Tech I'm Interested In
 `Kubernetes` `AI/ML Tooling` 
